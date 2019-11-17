@@ -24,5 +24,5 @@ Things you may want to cover:
 * ...
 
 
-[Reference - Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/)
+[Reference - Quickstart: Compose and Rails](https://docs.docker.com/compose/rails/)  
 [Reference - DockerでRuby on Railsの開発をしよう](https://qiita.com/saitoeku3/items/b1aa2ae143624e551aea)
